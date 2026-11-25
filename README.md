@@ -1,3 +1,1 @@
-# digipalvelut-projekti
-
-Gradian digipalveluihin tehty projekti
+Work example of SvelteKit made in a 3 person group

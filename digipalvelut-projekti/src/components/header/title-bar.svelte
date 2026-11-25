@@ -5,11 +5,6 @@
 
 <div class="titleBar">
     <div class="title">
-        <img
-            class="vr4vet_logo"
-            src="./images/VR4VET_LOGO_DOTS_trnsprnt_Turquoise.png"
-            alt="VR4VET"
-        />
         <h1 class="titleText">Impact tool</h1>
     </div>
     <div class="buttonGroup">
@@ -42,13 +37,6 @@
     .buttonGroup {
         display: flex;
         align-items: center;
-    }
-
-    .vr4vet_logo {
-        width: 220px;
-        height: 100px;
-        object-fit: cover;
-        aspect-ratio: 220 / 100;
     }
 
     @media (max-width: 768px) {

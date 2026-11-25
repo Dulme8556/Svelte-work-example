@@ -1,5 +1,5 @@
 <div class="credit">
-    <img class="eu_union" src="./images/EN_FundedbytheEU_RGB_POS.png" alt="Funded by the European Union"/>
+    <img class="eu_union" src="" alt=""/>
 </div>
 
 <style>

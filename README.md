@@ -1,1 +1,3 @@
-# Svelte-work-example
+# digipalvelut-projekti
+
+Gradian digipalveluihin tehty projekti
